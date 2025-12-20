@@ -71,6 +71,26 @@
 
 <br/>
 <br/>
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vishaljati&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishaljati&theme=tokyonight" />
+</p>
+
+---
+
+## 🧩 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishaljati&layout=compact&theme=tokyonight" />
+</p>
+
+---
+## 🐍 Contribution Snake
+![snake gif](https://github.com/vishaljati/vishaljati/blob/output/github-contribution-grid-snake.svg)
+---
 
 ### Let's Connect with me :
 <div align="left">
@@ -90,6 +110,7 @@
 > “Talk is cheap. Show me the code.” – Linus Torvalds
 
   
+
 
 
 
